@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+#navbar{
+    background-color: rgb(255, 255, 255);
+    border-bottom:2px solid;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-color: rgb(163, 163, 163);
+}
+
+#navbar a{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#menuDropdownIcon{
+    width: 10%;
+    height: 10%;
+}
+
+#quemSouEstilo{
+    width: 120px;
+}
+
+#barraBotoesNavbar a{
+    
+}
+
+#textoMarceloBonfim{
+    color: rgb(61, 61, 61);
+    font-size: 2rem;
+}
